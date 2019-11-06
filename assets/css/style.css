@@ -61,7 +61,7 @@ nav{
 
 
 img {
-    float: left;
+    float: left;  
     margin-right: 20px;
   }
 
@@ -70,8 +70,7 @@ img {
    background-color:#ffffff;
    display: inline-block;
    width: 960px; 
-   opacity: 1;
-}
+   }
 
 
 p{
